@@ -28,3 +28,6 @@ A simple Pharmacy Script for fivem which uses prescriptions
 ```
 - Drop resource into your server directory and add `ensure rj-pharmacy` to your `server.cfg`
 - Enjoy
+
+## Original Script
+	r14-rx
